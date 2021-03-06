@@ -1,4 +1,3 @@
-step 1 code:
 
 'use strict';
 var today = new Date();
